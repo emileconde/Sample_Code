@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1015377023884",
+    "firebase_url": "https://marvell-b22e2.firebaseio.com",
+    "project_id": "marvell-b22e2",
+    "storage_bucket": "marvell-b22e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015377023884:android:87e26841f1839cdcfefca9",
+        "android_client_info": {
+          "package_name": "com.example.android.conde.com.solutionssamplecode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015377023884-nf9fs2moaoggba38dqmqs8m3fk6vtmf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.conde.com.solutionssamplecode",
+            "certificate_hash": "ef932592f45ce73ada030b2d88e7fabea6267091"
+          }
+        },
+        {
+          "client_id": "1015377023884-6seebuhirkrhrvaaajrie1ks7bisdlfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCKUThMJ9pLLZhokg8vTbsSTGnDMVFgTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015377023884-6seebuhirkrhrvaaajrie1ks7bisdlfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
